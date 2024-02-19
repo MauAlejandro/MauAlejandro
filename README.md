@@ -8,11 +8,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,git,github)](https://skillicons.dev)
 [<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 
-### 🌟 Paixão: Programação e aprender continuamente.
-
 ### 📕 Atualmente estudando [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) com foco em backend na [Cubos Academy](https://cubos.academy/)
 
-### 📨 Entre em contado pelo email [e-mail](mailto:msuberoj11@gmail.com) ou pelo [linkedin](www.linkedin.com/in/mauricio-subero-1a0125267)
+### 🌟 Paixão: Programação e aprender continuamente.
+
+### 📨 Entre em contado pelo [e-mail](mailto:msuberoj11@gmail.com) ou pelo [linkedin](www.linkedin.com/in/mauricio-subero-1a0125267)
 
 
 ### Meu tempo codando registrado pelo [WakaTime](https://wakatime.com/)

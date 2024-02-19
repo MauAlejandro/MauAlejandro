@@ -10,7 +10,7 @@
 
 ### 📕 Atualmente estudando [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) com foco em backend na [Cubos Academy](https://cubos.academy/)
 
-### 🌟 Paixão: Programação e aprender continuamente.
+### 🌟 Paixão: Programar e aprender continuamente.
 
 ### 📨 Entre em contado pelo [e-mail](mailto:msuberoj11@gmail.com) ou pelo [linkedin](www.linkedin.com/in/mauricio-subero-1a0125267)
 

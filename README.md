@@ -15,6 +15,8 @@
 ### 📨 Entre em contado pelo [e-mail](mailto:msuberoj11@gmail.com) ou pelo [linkedin](www.linkedin.com/in/mauricio-subero-1a0125267)
 
 
+
+
 ### Meu tempo codando registrado pelo [WakaTime](https://wakatime.com/)
 
 [![wakatime](https://wakatime.com/badge/user/018c4095-f351-43cd-bcf6-356cdb24ee22.svg)](https://wakatime.com/@018c4095-f351-43cd-bcf6-356cdb24ee22)

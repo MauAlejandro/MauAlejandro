@@ -5,7 +5,7 @@
 
 ### 🔎 Desenvolvedor backend.
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,git,github,postgreessql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,git,github,pgsql)](https://skillicons.dev)
 [<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 
 ### 📕 Atualmente estudando [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) com foco em backend na [Cubos Academy](https://cubos.academy/)

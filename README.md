@@ -16,10 +16,7 @@
 
 
 
-
-### Meu tempo codando registrado pelo [WakaTime](https://wakatime.com/)
-
-[![wakatime](https://wakatime.com/badge/user/018c4095-f351-43cd-bcf6-356cdb24ee22.svg)](https://wakatime.com/@018c4095-f351-43cd-bcf6-356cdb24ee22)
+### Meu tempo codando registrado pelo [WakaTime](https://wakatime.com/) [![wakatime](https://wakatime.com/badge/user/018c4095-f351-43cd-bcf6-356cdb24ee22.svg)](https://wakatime.com/@018c4095-f351-43cd-bcf6-356cdb24ee22)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauAlejandro&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MauAlejandro&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
